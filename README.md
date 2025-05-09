@@ -13,7 +13,7 @@
 
 
 # About Me （¯﹃¯）   
-### ~~Nijika~~ Vertin is here (..•˘_˘•..)
+### Me is here (..•˘_˘•..)
 
 <img src="https://github.com/user-attachments/assets/f011eb7f-1fb6-4f3e-97d6-90dd3346aea3" width="25%" align="right" />
 <br><br>
@@ -33,11 +33,11 @@
 
 
 # Languages & Tools 👨‍💻 🛠:
+<!--
 </br>
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/user-attachments/assets/08f7ad00-be6b-4e94-9739-48e8a467d2af" alt="java" width="100" hight="50">
 
 
@@ -61,7 +61,7 @@
 </p>
 </br>
 
-
+-->
 ---
 
 <p align="center">
