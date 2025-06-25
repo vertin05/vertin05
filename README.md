@@ -31,9 +31,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glovejacc73yudt548c07iasf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=glovejacc73yudt548c07iasf&redirect=true)
 
-
-# Languages & Tools 👨‍💻 🛠:
 <!--
+# Languages & Tools 👨‍💻 🛠:
+
 </br>
 
 <p align="center">
