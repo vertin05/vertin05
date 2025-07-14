@@ -7,7 +7,7 @@
 <p align="center">
  <img src="https://github.com/user-attachments/assets/857e8ca4-48bf-41a4-95f5-ab6aa6076b18" alt="unnamed"/>
 </p>
-<h1 align="center">:  这日子什么时候是个头呀...(,,Ծ‸Ծ,,) </h1>
+<h1 align="center">:  这日子什么时候是个头呀... </h1>
 
 ---
 
