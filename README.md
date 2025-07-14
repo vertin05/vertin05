@@ -13,7 +13,7 @@
 
 
 # About Me （¯﹃¯）   
-### Me is here (..•˘_˘•..)
+### Sup
 
 <img src="https://github.com/user-attachments/assets/f011eb7f-1fb6-4f3e-97d6-90dd3346aea3" width="25%" align="right" />
 <br><br>
