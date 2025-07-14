@@ -18,7 +18,7 @@
 <img src="https://github.com/user-attachments/assets/f011eb7f-1fb6-4f3e-97d6-90dd3346aea3" width="25%" align="right" />
 <br><br>
 <pre>
-    💻 Now Major in Computer Scinece
+    💻 Now studying Computer Scinece
     🏫 I hate SCHOOL 
     🏫 I hate SCHOOL 
     🏫 I hate SCHOOL 
