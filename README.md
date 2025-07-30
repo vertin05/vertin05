@@ -20,12 +20,6 @@
 <pre>
     💻 Now studying Computer Scinece
     🏫 I hate SCHOOL 
-    🏫 I hate SCHOOL 
-    🏫 I hate SCHOOL 
-    🏫 I hate SCHOOL 
-    🏫 I hate SCHOOL 
-    🏫 I hate SCHOOL 
-    🏫 I hate SCHOOL 
     🎮 Novel • Anime • Games • Music • Code
 </pre>
 
