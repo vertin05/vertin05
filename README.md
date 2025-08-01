@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&pause=1000&width=435&lines=%E7%A5%9D%E4%BD%A0%E6%97%A9%E5%AE%89%EF%BC%8C%E5%8D%88%E5%AE%89%EF%BC%8C%E6%99%9A%E5%AE%89(%3D%CB%87%CF%89%CB%87%3D)" alt="Typing SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=50&pause=1000&vCenter=true&width=435&lines=Hello+There+%3F;This+is+SONG" alt="Typing SVG" /></a>
 </p>
 
 
 
 <p align="center">
- <img src="https://github.com/user-attachments/assets/857e8ca4-48bf-41a4-95f5-ab6aa6076b18" alt="unnamed"/>
+ <img src="https://github.com/user-attachments/assets/857e8ca4-48bf-41a4-95f5-ab6aa6076b18" width="400" alt="unnamed"/>
 </p>
-<h1 align="center">:  这日子什么时候是个头呀... </h1>
+<h6 align="center">随处可见的孤寂小破孩罢了</h6>
 
 ---
 
@@ -18,7 +18,7 @@
 <img src="https://github.com/user-attachments/assets/f011eb7f-1fb6-4f3e-97d6-90dd3346aea3" width="25%" align="right" />
 <br><br>
 <pre>
-    💻 Now studying Computer Scinece
+    💻 Now studying Computer Scinece 
     🏫 I hate SCHOOL 
     🎮 Novel • Anime • Games • Music • Code
 </pre>
