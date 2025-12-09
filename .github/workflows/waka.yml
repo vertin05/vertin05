@@ -1,0 +1,18 @@
+name: Waka Readme
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每日UTC0点运行
+  workflow_dispatch:
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: zh # 语言设置为中文
+          SHOW_TOTAL_CODE_TIME: "True" # 显示总编码时间
+          SHOW_LANGUAGE: "True" # 显示编程语言
+          SHOW_EDITORS: "True" # 显示编辑器
+          # 更多参数请查看项目文档
