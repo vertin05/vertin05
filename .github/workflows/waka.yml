@@ -1,28 +1,38 @@
 name: Waka Readme
 on:
   schedule:
-    - cron: '0 0 * * *' # 每日UTC0点运行
-  workflow_dispatch:
+    # 每日UTC时间0点运行（北京时间早上8点）
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动触发
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # 注意：此行缩进对齐上一行的 “-”
+      - uses: anmol098/waka-readme-stats@master
         with:
+          # 必须配置的密钥（请确保已在仓库Settings中设置好）
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LOCALE: zh
-          # 主要显示模块
-          SHOW_TOTAL_CODE_TIME: "True"   # 总编码时间徽章
-          SHOW_PROFILE_VIEWS: "True"     # 资料查看次数徽章
-          SHOW_COMMIT: "True"            # GitHub提交数据板块
+          
+          # 核心显示设置
+          LOCALE: en                
+          TIME_RANGE: last_7_days   # 统计时间范围：“本周”
+          SHOW_TITLE: "False"       # 不显示默认的“WakaTime周统计”标题
+
+          # 徽章模块（示例顶部显示的两枚徽章）
+          SHOW_TOTAL_CODE_TIME: "True"    # Code Time 徽章
+          SHOW_PROFILE_VIEWS: "True"      # Profile Views 徽章
+
+          # GitHub数据模块（包含贡献数、仓库数等）
+          SHOW_COMMIT: "True"            # GitHub 提交数据板块
+          
+          # 活跃度图表模块（两个提交图表）
           SHOW_TIME_OF_DAY: "True"       # 日活跃时段图表
           SHOW_DAYS_OF_WEEK: "True"      # 周活跃日期图表
-          # 本周详细统计
+
+          # 本周详细统计模块
           SHOW_LANGUAGE: "True"          # 编程语言
           SHOW_EDITORS: "True"           # 编辑器
           SHOW_PROJECTS: "True"          # 项目
           SHOW_OS: "True"                # 操作系统
-          # 其他可选参数（可根据喜好调整）
-          # SHOW_TITLE: "False"          # 是否显示“WakaTime周统计”标题
-          # TIME_RANGE: "last_7_days"    # 统计时间范围，可选 "last_30_days"
