@@ -1,28 +1,36 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mozilla+Headline&size=50&pause=1000&vCenter=true&width=435&lines=Hello+There+%3F;This+is+SONG" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3600&pause=2000&center=true&vCenter=true&random=true&width=435&lines=HI%2C+I'm+Cy" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/32b05823-8263-4704-8152-1df0253ed264" />
+</div>
 
-
-<p align="center">
- <img src="https://github.com/user-attachments/assets/857e8ca4-48bf-41a4-95f5-ab6aa6076b18" width="400" alt="unnamed"/>
-</p>
-<h6 align="center">随处可见的孤寂小破孩罢了</h6>
+<h6 align="center">我很无趣</h6>
 
 ---
 
 
-# About Me （¯﹃¯）   
+# About Me
 ###
 
-<img src="https://github.com/user-attachments/assets/f011eb7f-1fb6-4f3e-97d6-90dd3346aea3" width="25%" align="right" />
-<br><br>
+<div>
+  <img src="https://github.com/user-attachments/assets/f011eb7f-1fb6-4f3e-97d6-90dd3346aea3" 
+       width="120" 
+       align="right" 
+       hspace="10"
+       vspace="0" />
 <pre>
-    💻 Now studying Computer Scinece 
+    💻 Now studying Computer Science 
     🏫 I hate SCHOOL 
+    💼 I hate WORK
+    ᖰ ᖳ AirPods dependence
+    🏡 Wish to be a NEET but i can't
     🎮 Novel • Anime • Games • Music • Code
 </pre>
+</div>
 
+###  我在听...
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=glovejacc73yudt548c07iasf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=glovejacc73yudt548c07iasf&redirect=true)
 
 <!--
@@ -64,7 +72,7 @@
 </p>
 
 <!--
-![tumblr_d8cb6d904a4434d00710efccd6b68cf1_accbca65_540](https://github.com/user-attachments/assets/32b05823-8263-4704-8152-1df0253ed264)
+ <img src="https://github.com/user-attachments/assets/857e8ca4-48bf-41a4-95f5-ab6aa6076b18" width="400" alt="unnamed"/> 
 
 
 
