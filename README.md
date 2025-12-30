@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,18 +78,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-TypeScript               12 mins             ████████████████░░░░░░░░░   65.09 % 
-JavaScript               6 mins              ████████░░░░░░░░░░░░░░░░░   31.93 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-my-tech-blog             19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +104,7 @@ PHP                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vertin05/vertin05/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2025 01:12:01 UTC
+ Last Updated on 30/12/2025 01:06:41 UTC
 <!--END_SECTION:waka-->
 
 
