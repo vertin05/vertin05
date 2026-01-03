@@ -35,8 +35,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2045%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -51,45 +49,6 @@
  > 
 > 🔑 3 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-🌆 Daytime                22 commits          █████████░░░░░░░░░░░░░░░░   37.29 % 
-🌃 Evening                24 commits          ██████████░░░░░░░░░░░░░░░   40.68 % 
-🌙 Night                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Tuesday                  11 commits          █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Wednesday                9 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Friday                   12 commits          █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Saturday                 19 commits          ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -104,7 +63,7 @@ PHP                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vertin05/vertin05/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 01:08:19 UTC
+ Last Updated on 03/01/2026 01:03:49 UTC
 <!--END_SECTION:waka-->
 
 
