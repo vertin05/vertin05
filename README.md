@@ -21,11 +21,11 @@
        hspace="10"
        vspace="0" />
 <pre>
-    💻 Now studying Computer Science 
+    💻 Now Major in Artificial Intelligence 
     🏫 I hate SCHOOL 
     💼 I hate WORK
     ᖰ ᖳ AirPods dependence
-    🏡 Wish to be a NEET but i can't
+    🏡 Wish to be a NEET
     🎮 Novel • Anime • Games • Music • Code
 </pre>
 </div>
