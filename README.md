@@ -6,7 +6,6 @@
   <img src="https://github.com/user-attachments/assets/32b05823-8263-4704-8152-1df0253ed264" />
 </div>
 
-<h6 align="center">我很无趣的</h6>
 
 ---
 
